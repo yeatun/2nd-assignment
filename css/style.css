@@ -1,3 +1,4 @@
+
 #logo
 {
     color: teal;
@@ -14,6 +15,7 @@ main
 {
     color: #0c4275fd;
 }
+
 .fashion-card
 {
     border: 0;
@@ -27,7 +29,7 @@ main
 .last-part
 {
     border:0;
-    border-radius: 10px;
+    
     
     
    
@@ -37,4 +39,20 @@ main
 {
     width: 120px;
     padding: 5%;
+}
+.bg-clr
+{
+    background-color: rgb(246, 246, 246);;
+    border-radius: 15px;
+    
+}
+.last-button
+{
+    background-color: rgb(50, 169, 205);
+    border-radius: 10px;
+    border: 1px solid rgb(0, 66, 128);
+}
+footer
+{
+    text-align: center;
 }
