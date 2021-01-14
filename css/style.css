@@ -1,0 +1,40 @@
+#logo
+{
+    color: teal;
+}
+h1
+{
+    color: #0c4275fd;
+}
+p{
+    color: black;
+}
+
+main
+{
+    color: #0c4275fd;
+}
+.fashion-card
+{
+    border: 0;
+    
+}
+.fashion-card-footer 
+{
+    border: 0;
+    background-color:white; 
+}
+.last-part
+{
+    border:0;
+    border-radius: 10px;
+    
+    
+   
+}
+.last-part img
+
+{
+    width: 120px;
+    padding: 5%;
+}
